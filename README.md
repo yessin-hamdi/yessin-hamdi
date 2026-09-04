@@ -1,6 +1,6 @@
 #### Hi, I'm Yessin 👋
 
-🎓 Licence in CS & Big Data student, ISIMSF (Sfax, Tunisia) — completed an integrated prep cycle in Math-Physics-Computer Science
+🎓 CS & Big Data student, ISIMSF (Sfax, Tunisia) — completed an integrated prep cycle in Math-Physics-Computer Science
 
 🏎️ Pivoting toward **AI applied to automotive systems** — perception, trajectory planning, and control for autonomous/high-performance vehicles
 
