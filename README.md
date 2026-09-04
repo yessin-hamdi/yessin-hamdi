@@ -1,16 +1,13 @@
-## Hi there 👋
+#### Hi, I'm Yessin 👋
 
-<!--
-**yessin-hamdi/yessin-hamdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Licence in CS & Big Data student, ISIMSF (Sfax, Tunisia) — completed an integrated prep cycle in Math-Physics-Computer Science
 
-Here are some ideas to get you started:
+🏎️ Pivoting toward **AI applied to automotive systems** — perception, trajectory planning, and control for autonomous/high-performance vehicles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Currently building **racing-line-optimizer**, a minimum-curvature trajectory optimization project using real F1/DTM track data
+
+🎯 Targeting a PFE in embedded systems/AI at an automotive company, and a Master's in Autonomous Systems / Automotive AI starting 2027
+
+🌱 Background in Python, data analysis, and networking fundamentals ) — building toward computer vision, ML, and optimization
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yessin-hamdi/)
