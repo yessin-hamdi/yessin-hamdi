@@ -6,7 +6,7 @@
 
 -Built a  **racing-line-optimizer** , a minimum-curvature trajectory optimization project using real F1/DTM track data
 
--Built a **traffic-sign-classifier**, a CNN for GTSRB traffic sign classification (91.91% accuracy) covering the AI/computer vision side of an automotive-AI portfolio
+-Built a **traffic-sign-classifier**, a CNN for GTSRB traffic sign classification (91.91% accuracy) covering the AI/computer vision side of an automotive-AI portfolio -Currently working on the limitations and future improvements needed.
 
 -Targeting a PFE in embedded systems/AI at an automotive company, and a Master's in Autonomous Systems / Automotive AI starting 2027
 
