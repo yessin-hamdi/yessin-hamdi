@@ -8,7 +8,7 @@
 
 -Built a **traffic-sign-classifier**, a CNN for GTSRB traffic sign classification (94.73% accuracy) covering the AI/computer vision side of an automotive-AI portfolio
 
--Targeting a PFE in embedded systems/AI at an automotive company, and a Master's in Autonomous Systems / Automotive AI starting 2027
+-Targeting a PFE in embedded systems/AI at an automotive or AI company, and a Master's in Autonomous Systems / Automotive AI / AI / ML / Computer vision starting 2027
 
 -Background in Python, data analysis, and networking fundamentals  — building toward computer vision, ML, and optimization
 
