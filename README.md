@@ -1,15 +1,20 @@
-#### Hi, I'm Yassin 
+### Hi, I'm Yassin 
 
--CS & Big Data student, ISIMSF (Sfax, Tunisia) — completed an integrated prep cycle in Math-Physics-Computer Science
+Final-year Computer Science student (Big Data & Data Analysis track) at ISIMS, Sfax, Tunisia, after a two-year integrated preparatory cycle. I'm building toward **computer vision and AI for automotive and aerospace systems**: perception, detection, and the maths behind them.
 
--Pivoting toward **AI applied to automotive systems** — perception, trajectory planning, and control for autonomous/high-performance vehicles
+**Projects**
 
--Built a  **racing-line-optimizer** , a minimum-curvature trajectory optimization project using real F1/DTM track data
+- **[sign-detection](https://github.com/yessin-hamdi/sign-detection)**: two-stage traffic sign pipeline. A YOLO26n detector finds signs in road scenes, then my own CNN identifies them, with an "unknown" rule instead of guessing. Raising the input resolution took small-sign recall from 0.77 to 0.99; on the test set the pipeline names 91% of signs correctly and shows no wrong sign.
+- **[traffic-sign-classifier](https://github.com/yessin-hamdi/traffic-sign-classifier)**: CNN built from scratch for 43-class sign classification (GTSRB), with step-by-step regularisation and error analysis. It is the second stage of sign-detection.
+- **[racing-line-optimizer](https://github.com/yessin-hamdi/racing-line-optimizer)**: minimum-curvature racing line on real F1 track data, solved as a bounded optimisation problem with an analytic gradient, plus a simple speed model to estimate lap time.
 
--Built a **traffic-sign-classifier**, a CNN for GTSRB traffic sign classification (94.73% accuracy) covering the AI/computer vision side of an automotive-AI portfolio
+**Now**
 
--Targeting a PFE in embedded systems/AI at an automotive or AI company, and a Master's in Autonomous Systems / Automotive AI / AI / ML / Computer vision starting 2027
+- Final-year project at SAMM Test and Automation (2027): vision-guided robotic pick-and-place in an industrial setting: detection, coordinates, PLC and robot arm.
+- Learning ROS 2 and strengthening the maths for ML (linear algebra, multivariate calculus).
 
--Background in Python, data analysis, and networking fundamentals  — building toward computer vision, ML, and optimization
+**Tools:** Python · PyTorch · Ultralytics YOLO · NumPy / SciPy / pandas · SQL & MongoDB · Git
 
--Reach me on [LinkedIn](https://www.linkedin.com/in/yessin-hamdi/)
+**Languages:** Arabic · French (C1) · English (C1, IELTS 8.5)
+
+[LinkedIn](https://www.linkedin.com/in/yessin-hamdi/)
