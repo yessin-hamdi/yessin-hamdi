@@ -1,4 +1,4 @@
-#### Hi, I'm Yessin 
+#### Hi, I'm Yassin 
 
 -CS & Big Data student, ISIMSF (Sfax, Tunisia) — completed an integrated prep cycle in Math-Physics-Computer Science
 
